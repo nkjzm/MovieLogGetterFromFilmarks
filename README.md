@@ -1,0 +1,2 @@
+# MovieLogGetterFromFilmarks
+Filmarksから特定ユーザーの観た映画一覧を取得するスクリプト
